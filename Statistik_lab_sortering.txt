@@ -1,0 +1,14 @@
+
+                         n = 250 000            n = 500 000           n = 1 000 000
+Linjärsökning               2.094               4.3                     8.5853
+Binärsökning                0.1689              0.1753                  0.2294
+Sökning i hashtabell         0.0007             0.0005                   0.0004
+
+Sökord: ZZZ
+
+                         n = 250 000            n = 500 000           n = 1 000 000
+Urvalsortering              15356.5995            mamma mia           mamma mia   
+Quicksort                    4.6486                 7.8052          18.0118
+
+
+
